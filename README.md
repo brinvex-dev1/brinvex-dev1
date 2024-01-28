@@ -40,7 +40,7 @@ Experienced Java Developer with over 15 years of expertise, dedicated to buildin
 - SOAP, REST
 - Vaadin, ZKoss
 - Drools
-- Maven, Git, Docker
+- Maven, Git, Docker, IntelliJ Idea
 
 ### Languages
 - Slovak: Native Speaker
