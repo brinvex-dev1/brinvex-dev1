@@ -32,13 +32,13 @@ Experienced Java Developer with over 15 years of expertise, dedicated to buildin
 - Oracle Certified Professional, Java SE 6 Programmer
 
 ### Tools
-- Java 8, 11, 17, 21
+- Java
 - Spring, Hibernate
 - Jakarta EE (CDI, EJB, JMS) on JBoss/Wildfly
 - PostgreSQL, Microsoft SQL Server
 - Kafka, Infinispan
 - SOAP, REST
-- Vaadin, ZKoss
+- Vaadin
 - Drools
 - Maven, Git, Docker, IntelliJ Idea
 
