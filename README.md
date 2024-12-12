@@ -1,51 +1,13 @@
-## Expert Java Developer
+I am an experienced and certified Java developer with a strong focus on simple, clean, and maintainable code and architecture.
 
-Experienced Java Developer with over 15 years of expertise, dedicated to building efficient and scalable applications. Skilled in backend development, Java frameworks, and effective problem-solving.
+Detail-oriented, I excel at solving complex problems, 
+supported by a solid theoretical foundation in computer science, mathematics, and finance.
+I am committed to delivering thoughtful, reliable solutions that stand the test of time.
 
-### Experience
-- Java Developer with over 15 years of expertise
-- Designed and implemented robust systems using various technologies.
-- Collaborated with cross-functional teams to deliver high-quality solutions.
-- Proficient in the Java frameworks Spring, Hibernate, JakartaEE.
-- Extensive experience with database systems, particularly PostgreSQL and Microsoft SQL Server.
-- Utilized Vaadin extensively for building rich web applications.
-- Familiar with Apache Kafka for building scalable and distributed systems.
+I prioritize long-term strategies and prefer proven, simple technologies over fleeting trends or hype.
+My critical thinking and unique perspective enable me to create solutions that work well and can be relied on.
 
-### Skills
-- Proficient in programming with a strong foundation in Java.
-- Exceptional problem-solving skills.
-- Analytical critical thinking for effective decision-making.
-- Solid background in mathematics and finance.
-- Detail-oriented and precise in work.
-- Patient and approachable, promoting positive teamwork and collaboration.
+Friendly, patient, and hardworking, I bring a positive and dedicated approach to every project I work on.
 
-### Education
-- Magister's (Master's) in Applied Informatics
-  - Study Field: Artificial Intelligence
-  - Faculty of Mathematics, Physics, and Informatics
-  - Comenius University, Bratislava, Slovakia
-
-### Certifications
-- Oracle Certified Expert, Java EE 6 Java Persistence API Developer
-- Oracle Certified Expert, Java EE 6 Web Services Developer
-- Oracle Certified Professional, Java SE 7 Programmer
-- Oracle Certified Professional, Java SE 6 Programmer
-
-### Tools
-- Java
-- Spring, Hibernate
-- Jakarta EE (CDI, EJB, JMS) on JBoss/Wildfly
-- PostgreSQL, Microsoft SQL Server
-- Kafka, Infinispan
-- SOAP, REST
-- Vaadin
-- Drools
-- Maven, Git, Docker, IntelliJ Idea
-
-### Languages
-- Slovak: Native Speaker
-- English: B2 (Upper Intermediate)
-- Czech: B2 (Upper Intermediate)
-
-### Contact
-- Email: lukas@brinvex.com
+I am the author of the Brinvex project suite, which includes open-source tools:
+- Brinvex Investment Performance Analyzer https://github.com/brinvex/brinvex-investment-performance-analyzer 
