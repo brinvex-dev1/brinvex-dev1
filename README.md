@@ -10,4 +10,5 @@ My critical thinking and unique perspective enable me to create solutions that w
 Friendly, patient, and hardworking, I bring a positive and dedicated approach to every project I work on.
 
 I am the author of the Brinvex project suite, which includes open-source tools:
-- Brinvex Investment Performance Analyzer https://github.com/brinvex/brinvex-investment-performance-analyzer 
+- Brinvex Investment Performance Analyzer https://github.com/brinvex/brinvex-investment-performance-analyzer
+- Brinvex Persistence https://github.com/brinvex/brinvex-persistence
