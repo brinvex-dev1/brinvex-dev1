@@ -11,8 +11,9 @@ Friendly, patient, and hardworking, I bring a positive and dedicated approach to
 
 I am the author of the Brinvex project suite, which includes open-source tools:
 - Brinvex Investment Performance Analyzer https://github.com/brinvex/brinvex-investperf
-- Brinvex Persistence https://github.com/brinvex/brinvex-persistence
+- Brinvex Portfolio Activity https://github.com/brinvex/brinvex-ptfactivity
 - Brinvex ECB https://github.com/brinvex/brinvex-ecb
+- Brinvex Persistence https://github.com/brinvex/brinvex-persistence
 - Brinvex DMS https://github.com/brinvex/brinvex-dms
 
 If you have any questions, feedback, or need assistance, please reach out to info@brinvex.com.  
