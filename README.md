@@ -14,3 +14,7 @@ I am the author of the Brinvex project suite, which includes open-source tools:
 - Brinvex Persistence https://github.com/brinvex/brinvex-persistence
 - Brinvex ECB https://github.com/brinvex/brinvex-ecb
 - Brinvex DMS https://github.com/brinvex/brinvex-dms
+
+If you have any questions, feedback, or need assistance, please reach out to info@brinvex.com.  
+I am also open to exploring work partnerships of any kind. 
+Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch - I’d love to hear from you!
