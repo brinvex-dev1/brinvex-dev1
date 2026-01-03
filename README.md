@@ -39,10 +39,6 @@ Brinvex also encompasses general Java utilities:
 - **[Brinvex Java](https://github.com/brinvex/brinvex-java)**  
   Collection of general-purpose Java helper utilities.
 
-The preferred technologies used across Brinvex projects include: _Java, Spring, Hibernate, PostgreSQL, Kafka, Vaadin, Rest, Excel, Power Query_, Maven, GitHub.
+The preferred technologies used across Brinvex projects include: Java, Spring, Hibernate, PostgreSQL, Kafka, Excel.
 
-In my previous professional work, I’ve gained solid experience with a wide range of other technologies, including: _Jakarta EE, JPA, EJB, JMS/MDB, CDI, JAX-WS, JAX-RS, JSP, JBoss/Wildfly, IBM MQ, SOAP._  
-
-If you have any questions, feedback, or need assistance, please reach out to info@brinvex.com.  
-I am also open to exploring work partnerships of any kind. 
-Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch - I’d love to hear from you!
+As the author of the Brinvex project, I’m open to exploring work partnerships of any kind. Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch.
